@@ -4,7 +4,7 @@ This project is aim to understand microservices architecture using Pet Clinic pr
 # Introduction 
 The purpose of this Project to create framework for bootstrap any microservices project based on java  
 # Challenges
-Some Common challenges have been addressed in the projects and some needs to do:
+Some Common challenges have been addressed in this project and some needs to do:
 Log management
 Service discovery
 API gateway
